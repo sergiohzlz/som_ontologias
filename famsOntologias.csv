@@ -1,0 +1,260 @@
+PF00005	GO:0005524	ATP binding	function
+PF00005	GO:0016887	ATPase activity	function
+PF00006	GO:0005524	ATP binding	function
+PF00009	GO:0005525	GTP binding	function
+PF00009	GO:0003924	GTPase activity	function
+PF00013	GO:0003723	RNA binding	function
+PF00023	GO:0005515	protein binding	function
+PF00025	GO:0005525	GTP binding	function
+PF00036	GO:0005509	calcium ion binding	function
+PF00042	GO:0020037	heme binding	function
+PF00069	GO:0005524	ATP binding	function
+PF00069	GO:0004672	protein kinase activity	function
+PF00070	GO:0016491	oxidoreductase activity	function
+PF00071	GO:0005525	GTP binding	function
+PF00071	GO:0003924	GTPase activity	function
+PF00076	GO:0003676	nucleic acid binding	function
+PF00083	GO:0022857	transmembrane transporter activity	function
+PF00097	GO:0046872	metal ion binding	function
+PF00108	GO:0016747	transferase activity, transferring acyl groups other than amino-acyl groups	function
+PF00115	GO:0020037	heme binding	function
+PF00115	GO:0004129	cytochrome-c oxidase activity	function
+PF00125	GO:0003677	DNA binding	function
+PF00137	GO:0015078	proton transmembrane transporter activity	function
+PF00149	GO:0016787	hydrolase activity	function
+PF00150	GO:0004553	hydrolase activity, hydrolyzing O-glycosyl compounds	function
+PF00160	GO:0003755	peptidyl-prolyl cis-trans isomerase activity	function
+PF00170	GO:0003700	DNA binding transcription factor activity	function
+PF00171	GO:0016491	oxidoreductase activity	function
+PF00172	GO:0000981	RNA polymerase II transcription factor activity, sequence-specific DNA binding	function
+PF00172	GO:0008270	zinc ion binding	function
+PF00176	GO:0005524	ATP binding	function
+PF00201	GO:0016758	transferase activity, transferring hexosyl groups	function
+PF00202	GO:0008483	transaminase activity	function
+PF00202	GO:0030170	pyridoxal phosphate binding	function
+PF00205	GO:0000287	magnesium ion binding	function
+PF00205	GO:0030976	thiamine pyrophosphate binding	function
+PF00237	GO:0003735	structural constituent of ribosome	function
+PF00240	GO:0005515	protein binding	function
+PF00258	GO:0010181	FMN binding	function
+PF00270	GO:0005524	ATP binding	function
+PF00270	GO:0003676	nucleic acid binding	function
+PF00318	GO:0003735	structural constituent of ribosome	function
+PF00320	GO:0043565	sequence-specific DNA binding	function
+PF00320	GO:0008270	zinc ion binding	function
+PF00320	GO:0003700	DNA binding transcription factor activity	function
+PF00349	GO:0005524	ATP binding	function
+PF00349	GO:0016773	phosphotransferase activity, alcohol group as acceptor	function
+PF00368	GO:0004420	hydroxymethylglutaryl-CoA reductase (NADPH) activity	function
+PF00368	GO:0050662	coenzyme binding	function
+PF00370	GO:0016773	phosphotransferase activity, alcohol group as acceptor	function
+PF00382	GO:0017025	TBP-class protein binding	function
+PF00397	GO:0005515	protein binding	function
+PF00399	GO:0005199	structural constituent of cell wall	function
+PF00400	GO:0005515	protein binding	function
+PF00408	GO:0016868	intramolecular transferase activity, phosphotransferases	function
+PF00432	GO:0003824	catalytic activity	function
+PF00439	GO:0005515	protein binding	function
+PF00443	GO:0036459	thiol-dependent ubiquitinyl hydrolase activity	function
+PF00444	GO:0003735	structural constituent of ribosome	function
+PF00478	GO:0003824	catalytic activity	function
+PF00481	GO:0003824	catalytic activity	function
+PF00501	GO:0003824	catalytic activity	function
+PF00510	GO:0015002	heme-copper terminal oxidase activity	function
+PF00514	GO:0005515	protein binding	function
+PF00515	GO:0005515	protein binding	function
+PF00578	GO:0016209	antioxidant activity	function
+PF00578	GO:0016491	oxidoreductase activity	function
+PF00587	GO:0005524	ATP binding	function
+PF00587	GO:0000166	nucleotide binding	function
+PF00587	GO:0004812	aminoacyl-tRNA ligase activity	function
+PF00614	GO:0003824	catalytic activity	function
+PF00632	GO:0004842	ubiquitin-protein transferase activity	function
+PF00642	GO:0046872	metal ion binding	function
+PF00646	GO:0005515	protein binding	function
+PF00664	GO:0005524	ATP binding	function
+PF00664	GO:0042626	ATPase activity, coupled to transmembrane movement of substances	function
+PF00682	GO:0003824	catalytic activity	function
+PF00684	GO:0051082	unfolded protein binding	function
+PF00684	GO:0031072	heat shock protein binding	function
+PF00735	GO:0005525	GTP binding	function
+PF00743	GO:0050661	NADP binding	function
+PF00743	GO:0050660	flavin adenine dinucleotide binding	function
+PF00743	GO:0004499	N,N-dimethylaniline monooxygenase activity	function
+PF00763	GO:0004488	methylenetetrahydrofolate dehydrogenase (NADP+) activity	function
+PF00787	GO:0035091	phosphatidylinositol binding	function
+PF00806	GO:0003723	RNA binding	function
+PF00854	GO:0022857	transmembrane transporter activity	function
+PF00899	GO:0008641	ubiquitin-like modifier activating enzyme activity	function
+PF00916	GO:0015116	sulfate transmembrane transporter activity	function
+PF00917	GO:0005515	protein binding	function
+PF00961	GO:0004519	endonuclease activity	function
+PF00962	GO:0019239	deaminase activity	function
+PF01021	GO:0003723	RNA binding	function
+PF01040	GO:0016765	transferase activity, transferring alkyl or aryl (other than methyl) groups	function
+PF01053	GO:0030170	pyridoxal phosphate binding	function
+PF01068	GO:0005524	ATP binding	function
+PF01068	GO:0003910	DNA ligase (ATP) activity	function
+PF01074	GO:0004559	alpha-mannosidase activity	function
+PF01086	GO:0005198	structural molecule activity	function
+PF01088	GO:0004843	thiol-dependent ubiquitin-specific protease activity	function
+PF01096	GO:0008270	zinc ion binding	function
+PF01096	GO:0003676	nucleic acid binding	function
+PF01118	GO:0016620	oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor	function
+PF01118	GO:0051287	NAD binding	function
+PF01142	GO:0003723	RNA binding	function
+PF01142	GO:0009982	pseudouridine synthase activity	function
+PF01174	GO:0004359	glutaminase activity	function
+PF01226	GO:0022857	transmembrane transporter activity	function
+PF01239	GO:0008318	protein prenyltransferase activity	function
+PF01253	GO:0003743	translation initiation factor activity	function
+PF01263	GO:0016853	isomerase activity	function
+PF01274	GO:0004474	malate synthase activity	function
+PF01336	GO:0003676	nucleic acid binding	function
+PF01344	GO:0005515	protein binding	function
+PF01381	GO:0043565	sequence-specific DNA binding	function
+PF01422	GO:0008270	zinc ion binding	function
+PF01422	GO:0003700	DNA binding transcription factor activity	function
+PF01426	GO:0003682	chromatin binding	function
+PF01434	GO:0005524	ATP binding	function
+PF01434	GO:0004222	metalloendopeptidase activity	function
+PF01479	GO:0003723	RNA binding	function
+PF01502	GO:0004635	phosphoribosyl-AMP cyclohydrolase activity	function
+PF01544	GO:0046873	metal ion transmembrane transporter activity	function
+PF01585	GO:0003676	nucleic acid binding	function
+PF01612	GO:0008408	3'-5' exonuclease activity	function
+PF01612	GO:0003676	nucleic acid binding	function
+PF01644	GO:0004100	chitin synthase activity	function
+PF01687	GO:0008531	riboflavin kinase activity	function
+PF01729	GO:0004514	nicotinate-nucleotide diphosphorylase (carboxylating) activity	function
+PF01779	GO:0003735	structural constituent of ribosome	function
+PF01781	GO:0003735	structural constituent of ribosome	function
+PF01853	GO:0004402	histone acetyltransferase activity	function
+PF01873	GO:0003743	translation initiation factor activity	function
+PF01968	GO:0016787	hydrolase activity	function
+PF01975	GO:0016787	hydrolase activity	function
+PF02020	GO:0005515	protein binding	function
+PF02046	GO:0004129	cytochrome-c oxidase activity	function
+PF02133	GO:0022857	transmembrane transporter activity	function
+PF02137	GO:0003723	RNA binding	function
+PF02137	GO:0004000	adenosine deaminase activity	function
+PF02146	GO:0070403	NAD+ binding	function
+PF02201	GO:0005515	protein binding	function
+PF02257	GO:0003677	DNA binding	function
+PF02260	GO:0005515	protein binding	function
+PF02358	GO:0003824	catalytic activity	function
+PF02386	GO:0008324	cation transmembrane transporter activity	function
+PF02535	GO:0046873	metal ion transmembrane transporter activity	function
+PF02544	GO:0016627	oxidoreductase activity, acting on the CH-CH group of donors	function
+PF02666	GO:0004609	phosphatidylserine decarboxylase activity	function
+PF02668	GO:0016491	oxidoreductase activity	function
+PF02733	GO:0004371	glycerone kinase activity	function
+PF02749	GO:0016763	transferase activity, transferring pentosyl groups	function
+PF02765	GO:0003677	DNA binding	function
+PF02775	GO:0003824	catalytic activity	function
+PF02775	GO:0030976	thiamine pyrophosphate binding	function
+PF02776	GO:0030976	thiamine pyrophosphate binding	function
+PF02777	GO:0004784	superoxide dismutase activity	function
+PF02777	GO:0046872	metal ion binding	function
+PF02782	GO:0016773	phosphotransferase activity, alcohol group as acceptor	function
+PF02784	GO:0003824	catalytic activity	function
+PF02786	GO:0005524	ATP binding	function
+PF02799	GO:0004379	glycylpeptide N-tetradecanoyltransferase activity	function
+PF02845	GO:0005515	protein binding	function
+PF02854	GO:0003723	RNA binding	function
+PF02854	GO:0005515	protein binding	function
+PF02862	GO:0046872	metal ion binding	function
+PF02891	GO:0008270	zinc ion binding	function
+PF02910	GO:0016491	oxidoreductase activity	function
+PF02935	GO:0004129	cytochrome-c oxidase activity	function
+PF02936	GO:0004129	cytochrome-c oxidase activity	function
+PF02940	GO:0004651	polynucleotide 5'-phosphatase activity	function
+PF02985	GO:0005515	protein binding	function
+PF03009	GO:0008081	phosphoric diester hydrolase activity	function
+PF03144	GO:0005525	GTP binding	function
+PF03161	GO:0004519	endonuclease activity	function
+PF03178	GO:0003676	nucleic acid binding	function
+PF03358	GO:0016491	oxidoreductase activity	function
+PF03485	GO:0004814	arginine-tRNA ligase activity	function
+PF03485	GO:0005524	ATP binding	function
+PF03485	GO:0000166	nucleotide binding	function
+PF03770	GO:0016301	kinase activity	function
+PF03810	GO:0008536	Ran GTPase binding	function
+PF03900	GO:0004418	hydroxymethylbilane synthase activity	function
+PF03950	GO:0005524	ATP binding	function
+PF03950	GO:0000166	nucleotide binding	function
+PF03950	GO:0004812	aminoacyl-tRNA ligase activity	function
+PF03982	GO:0016747	transferase activity, transferring acyl groups other than amino-acyl groups	function
+PF03983	GO:0043130	ubiquitin binding	function
+PF03983	GO:0042802	identical protein binding	function
+PF03983	GO:0030674	protein binding, bridging	function
+PF03983	GO:0008092	cytoskeletal protein binding	function
+PF04042	GO:0003887	DNA-directed DNA polymerase activity	function
+PF04042	GO:0003677	DNA binding	function
+PF04055	GO:0003824	catalytic activity	function
+PF04055	GO:0051536	iron-sulfur cluster binding	function
+PF04082	GO:0003677	DNA binding	function
+PF04082	GO:0008270	zinc ion binding	function
+PF04265	GO:0030975	thiamine binding	function
+PF04424	GO:0004843	thiol-dependent ubiquitin-specific protease activity	function
+PF04424	GO:1990380	Lys48-specific deubiquitinase activity	function
+PF04428	GO:0016773	phosphotransferase activity, alcohol group as acceptor	function
+PF04446	GO:0000287	magnesium ion binding	function
+PF04446	GO:0008193	tRNA guanylyltransferase activity	function
+PF04568	GO:0042030	ATPase inhibitor activity	function
+PF04627	GO:0046933	proton-transporting ATP synthase activity, rotational mechanism	function
+PF04769	GO:0008301	DNA binding, bending	function
+PF04825	GO:0005515	protein binding	function
+PF04898	GO:0015930	glutamate synthase activity	function
+PF05001	GO:0003677	DNA binding	function
+PF05051	GO:0005507	copper ion binding	function
+PF05051	GO:0016531	copper chaperone activity	function
+PF05132	GO:0003899	DNA-directed 5'-3' RNA polymerase activity	function
+PF05132	GO:0003677	DNA binding	function
+PF05148	GO:0008168	methyltransferase activity	function
+PF05188	GO:0005524	ATP binding	function
+PF05188	GO:0030983	mismatched DNA binding	function
+PF05192	GO:0005524	ATP binding	function
+PF05192	GO:0030983	mismatched DNA binding	function
+PF05470	GO:0003743	translation initiation factor activity	function
+PF05470	GO:0031369	translation initiation factor binding	function
+PF05773	GO:0005515	protein binding	function
+PF06017	GO:0003774	motor activity	function
+PF06422	GO:0005524	ATP binding	function
+PF06422	GO:0042626	ATPase activity, coupled to transmembrane movement of substances	function
+PF06427	GO:0003980	UDP-glucose:glycoprotein glucosyltransferase activity	function
+PF06470	GO:0005524	ATP binding	function
+PF06470	GO:0005515	protein binding	function
+PF07647	GO:0005515	protein binding	function
+PF07728	GO:0005524	ATP binding	function
+PF07728	GO:0016887	ATPase activity	function
+PF07780	GO:0008168	methyltransferase activity	function
+PF07819	GO:0016788	hydrolase activity, acting on ester bonds	function
+PF07973	GO:0005524	ATP binding	function
+PF07973	GO:0004812	aminoacyl-tRNA ligase activity	function
+PF07992	GO:0016491	oxidoreductase activity	function
+PF08022	GO:0016491	oxidoreductase activity	function
+PF08029	GO:0000287	magnesium ion binding	function
+PF08029	GO:0003879	ATP phosphoribosyltransferase activity	function
+PF08513	GO:0005515	protein binding	function
+PF08613	GO:0019901	protein kinase binding	function
+PF08731	GO:0000982	transcription factor activity, RNA polymerase II proximal promoter sequence-specific DNA binding	function
+PF09382	GO:0043140	ATP-dependent 3'-5' DNA helicase activity	function
+PF10403	GO:0003677	DNA binding	function
+PF10404	GO:0003677	DNA binding	function
+PF10466	GO:0004866	endopeptidase inhibitor activity	function
+PF10487	GO:0017056	structural constituent of nuclear pore	function
+PF11051	GO:0016757	transferase activity, transferring glycosyl groups	function
+PF11640	GO:0004674	protein serine/threonine kinase activity	function
+PF12328	GO:0004526	ribonuclease P activity	function
+PF12678	GO:0008270	zinc ion binding	function
+PF12689	GO:0016791	phosphatase activity	function
+PF13417	GO:0005515	protein binding	function
+PF13499	GO:0005509	calcium ion binding	function
+PF13603	GO:0002161	aminoacyl-tRNA editing activity	function
+PF13631	GO:0009055	electron transfer activity	function
+PF13631	GO:0016491	oxidoreductase activity	function
+PF13855	GO:0005515	protein binding	function
+PF14619	GO:0042393	histone binding	function
+PF14641	GO:0003677	DNA binding	function
+PF14863	GO:0046983	protein dimerization activity	function
