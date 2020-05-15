@@ -1,2 +1,5 @@
-# som_ontologias
-SOM para familias de proteinas usando ontologias 
+# SOM Ontologias
+
+SOM para familias de proteinas usando ontologias.
+Doctorado de Alejandra Zavala.
+
