@@ -123,7 +123,11 @@
 \end{abstract}
 
 \begin{keyword}
-Intrinsically disordered protein regions \sep ordered protein regions \sep Pfam family \sep protein domain \sep The discrete generalized beta distribution \sep megasecuence \sep familiome \sep self-organizing map \sep complexity
+Intrinsically disordered protein regions \sep 
+ordered protein regions \sep Pfam family \sep 
+protein domain \sep The discrete generalized 
+beta distribution \sep megasecuence \sep 
+familiome \sep self-organizing map \sep complexity
 %% keywords here, in the form: keyword \sep keyword
 
 %% MSC codes here, in the form: \MSC code \sep code
@@ -141,9 +145,12 @@ Intrinsically disordered protein regions \sep ordered protein regions \sep Pfam 
 %% main text
 \section{Background}
 \label{S:1}
-
-\par NOTA: HAY QUE CONSIDERAR QUE LA REVISTA A LA QUE SE VA A ENVIAR ES Computational Biology and Chemistry de Elsevier. \par PARTE DE LA INTRODUCCIÓN SE DEBE QUITAR C0NSIDERANDO QUE MUCHOS DE LOS LECTORES SABRÁN ACERCA DE PROTEÍNAS Y PUEDEN SER HASTA BIOINFORMÁTICOS. \par
-
+%%
+%%\par NOTA: HAY QUE CONSIDERAR QUE LA REVISTA A LA QUE 
+%%SE VA A ENVIAR ES Computational Biology and Chemistry de Elsevier. \par 
+%%PARTE DE LA INTRODUCCIÓN SE DEBE QUITAR C0NSIDERANDO QUE 
+%%MUCHOS DE LOS LECTORES SABRÁN ACERCA DE PROTEÍNAS Y PUEDEN SER HASTA BIOINFORMÁTICOS. \par
+%%
 
 Historically, the science of protein structure has privileged the study of ordered protein regions (OPRs)  with regular and well-defined secondary structure, such as  $\alpha$-helix, $\beta$-conformations and turns. In fact, proteins that contain mainly ordered regions are the classic text-book example of what a typical protein should look like. This is probably associated with the fact that the most commonly used technique for determining protein structure, i. e. x-ray crystallography, is biased towards resolving protein regions with regular and well-defined secondary structures. However,  it has recently become increasingly clear that intrinsically disordered protein regions play an important role in the structure of proteins \cite{oldfield2014intrinsically}.
 
@@ -289,6 +296,7 @@ a novel probability function that it has been shown to be an
 alternative to fit data that does not fit Zipf's law perfectly
 nevertheless an underlying process alike seems to be taking 
 place \cite{martinez2009universality, fontanelli2016beyondzipf}. 
+%% adecuar
 In some instances the $\alpha$ exponent can be related 
 to behaviors generating power laws, as is the case of scale 
 invariance in turbulence in the so called 
@@ -301,42 +309,33 @@ able to encompass both the scale invariance and chaotic regime in
 depicting the whole process and its conflicting dynamics in the 
 same graph. This gives a general representation of the phenomena
 under study. \cite{martinez2009universality}.\par
+%% hasta acá 
  
 There is a wide variety of a distinct phenomena studied under 
-the DGBD as shown in \cite{martinez2009universality}
-On occasions we have perceived that parameters relations hold for 
-certain instances, for example the for the musical notes 
-frequencies $\alpha < \beta$ in general, while for network 
-connectivity related situations $\alpha > \beta $ 
-is encountered more often. However, the role of exponents a and b 
+the DGBD as shown in \cite{martinez2009universality} and specifically
+there is some research in the field of genomics as shown in 
+\cite{gupta2021modeling, fontanelli2016beyondzipf, li2016size}
+It is worth noting that the role of exponents $\alpha$ and $\beta$
 as universality classifying parameters, as for example in critical 
-phenomena, remains be investigated in further detail. 
-Our findings are most revealing when both parameters a and b are 
-non-negligible and not too disparate. This usually happens for the 
-social phenomena we have explored and which present some the most 
-impressive fits. Based on these examples, it appears that DGBD fits 
-are at their best when dealing with situations that result from the 
-convergence of multiple heterogeneous processes. \cite{martinez2009universality}. \par 
+phenomena, remains be investigated in further detail.\par 
 
-EL PÁRRAFO ANTERIOR ES INTEGRO DEL ARTÍCULO DE MARTÍNEZ-MEKLER Y ES 
-PARA AYUDARNOS A TRATAR DE RESPONDER LAS SIGUIENTES DUDAS.... \par 
+%%Idea del día 12 de abril del 2021. Describir la ley de potencia 
+%. las ventajas que confiere la germibeta. Hacer énfasis en que la 
+%%megasecuencia de las familias se ajusta perfectamente a la forma de 
+%%la germibeta tanto en alfa como en beta (A Alejandra le parece 
+%%fundamental este punto). Los ajustes de la germibeta se pueden 
+%%utilizar para "buscar" o "identificar" o "interpetar" las RIDs/ROs 
+%%(Si esto es verdad, aquí puede quedar el argumento de la estructura 
+%%de las proteínas integrando las RIDs/ROs como parte del todo de la 
+%%proteína, indicar si esto también es valido para que las RIDs/ROs sean 
+%%una huella digital, todavía no estamos seguros si la huella digital 
+%%puede ser evolutiva también).  \par 
+%%
 
-Idea del día 12 de abril del 2021. Describir la ley de potencia 
-y las ventajas que confiere la germibeta. Hacer énfasis en que la 
-megasecuencia de las familias se ajusta perfectamente a la forma de 
-la germibeta tanto en alfa como en beta (A Alejandra le parece 
-fundamental este punto). Los ajustes de la germibeta se pueden 
-utilizar para "buscar" o "identificar" o "interpetar" las RIDs/ROs 
-(Si esto es verdad, aquí puede quedar el argumento de la estructura 
-de las proteínas integrando las RIDs/ROs como parte del todo de la 
-proteína, indicar si esto también es valido para que las RIDs/ROs sean 
-una huella digital, todavía no estamos seguros si la huella digital 
-puede ser evolutiva también).  \par 
-
-ESPECIFICAR PARA QUE SE HICIERON CADA UNA DE LAS FIGURAS.... 
-QUÉ SE QUERÍA OBTENER... QUÉ RESULTADOS IMPORTANTES SE TIENEN Y EN 
-BASE A QUÉ.... \par  
-
+%%ESPECIFICAR PARA QUE SE HICIERON CADA UNA DE LAS FIGURAS.... 
+%%QUÉ SE QUERÍA OBTENER... QUÉ RESULTADOS IMPORTANTES SE TIENEN Y EN 
+%%BASE A QUÉ.... \par  
+%%
 We constructed DGBD plots for the 580  families and we are showing 
 the best DGBD plots according to the following criteria: first, 
 a Pfam family needed to have the highest square of correlation 
@@ -344,7 +343,9 @@ coefficient; second, an sample size N of at least  30 different
 domain instances; and finally the DGBD alpha and beta values had 
 to be $\ge 0$. Every panel in each figure indicates the Pfam family, 
 the square of correlation coefficient, the alpha and beta values, 
-and its N value. \par In the familiome database, the highest alpha 
+and its N value. \par 
+
+In the familiome database, the highest $\alpha$
 value was 2.0027 and the lowest alpha value was 0.1003. Figure 1 
 shows selected cases for the scenario where $ \alpha > \beta$.  
 
@@ -363,17 +364,7 @@ have two different Pfam families with specific ontologies like
 activity. In the case of a family with lyase ontology, its specific 
 ontology is ``phosphatidylserine decarboxylase activity''. 
 For the families with oxidoreductase and isomerase, there are not 
-specific ontologies. 
-
-These phenomena are encountered more often for network connectivity 
-related situations $\alpha > \beta$ \cite{martinez2009universality}. 
-ESTA FRASE LA SUGIRIÓ CHEKO PERO PARECE QUE ESTÁ INCOMPLETA ¿A QUÉ 
-TE REFIERES CON REDES DE CONECTIVIDAD? ¿REDES LIBRES DE ESCALA?¿REDES 
-CON CONECTIVIDAD ALTA O BAJA? ¿REDES CON DETERMINADOS GRADOS DE 
-LIBERTAD? ADEMÁS ¿CÓMO SE CONECTA ESTO CON LA DISCUSIÓN?
-
-
-
+specific ontologies.\par
 
 \begin{figure} %{\textwidth}
     \centering
@@ -407,7 +398,8 @@ two families are labelled ``DNA binding'' and one family is labelled
 ``RNA binding'', one family is labelled ``metal ion binding'', and 
 two families with other specific ontologies like ``proton-transporting 
 ATP synthase activity'' and ``aminoacyl-tRNA editing activity''. 
-In this case, the distribution falls rapidly and with high beta values, 
+%%verificar: considerar pasar esta idea a la intro de dgbd más arriba
+In this case, the distribution falls rapidly and with high $\beta$ values, 
 the rank is minor in the distribution por lo qué...... 
 %\citet{Tesis Cheko}, esto puede estar interesante pero hay que 
 %ponerlo con más detalle, o bien explicarnos a los legos la importancia 
@@ -427,20 +419,23 @@ the rank is minor in the distribution por lo qué......
 \end{figure}
 \clearpage
 
-\underline{Aquí nos quedamos el 13 deb 2021}. In the yeast familiome 
-database, 28 different families were found when alpha equals beta with 
-values nearest to 1 $\pm0.10$. There are 3 different generals GO molecular 
-functions belonging to different families. Six Pfam families have a 
-binding ontology, two have ligase ontologies, and hydrolase, initiation 
-factor and cooper chaperone ontologies are represented by one each (Figure 3). 
-We have 6 families with different binding ontologies and other ontologies. 
+%13 de febrero 2021
+In the yeast familiome database, 28 different families were 
+found when alpha equals beta with values nearest to 1 $\pm0.10$. 
+There are 3 different generals GO molecular functions belonging 
+to different families. Six Pfam families have a 
+binding ontology, two have ligase ontologies, and hydrolase, 
+initiation factor and cooper chaperone ontologies are represented 
+by one each (Figure 3). 
+We have 6 families with different binding ontologies and other 
+ontologies. 
 One family have zinc ion binding and nucleic acid binding, one family 
 have metal ion binding and translation initiation factor activity, one 
 family have ATP binding, nucleotide binding and aminoacyl-tRNA ligase 
 activity, one family have copper ion binding and copper chaperone activity, 
 one family have RNA binding and the last family have ATP-dependent 3'-5' 
 DNA helicase activity and aminoacyl-tRNA editing activity.  \par 
-QUÉ SIGNIFICA ESTO? DISTRIBUCIÓN DE LA VALLETE.... \par
+%%QUÉ SIGNIFICA ESTO? DISTRIBUCIÓN DE LA VALLETE.... \par
 
 \begin{figure} %{\textwidth}
     \centering
@@ -453,10 +448,10 @@ QUÉ SIGNIFICA ESTO? DISTRIBUCIÓN DE LA VALLETE.... \par
 \clearpage
 
 
-\par DE LAS GRÁFICAS ANTERIORES, CUÁL SERÍA LA DESCRIPCIÓN SERÍA Y 
-FORMAL (FÍSICA)? YO SUPONGO QUE TENIENDO ESA DESCRIPCIÓN PODREMOS DAR UN 
-ANÁLISIS MÁS FORMAL. LO QUE ALEJANDRA HA HECHO ES MERAMENTE DESCRIPTIVO (PAJA). \par
- 
+%%DE LAS GRÁFICAS ANTERIORES, CUÁL SERÍA LA DESCRIPCIÓN SERÍA Y 
+%%FORMAL (FÍSICA)? YO SUPONGO QUE TENIENDO ESA DESCRIPCIÓN PODREMOS DAR UN 
+%%ANÁLISIS MÁS FORMAL. LO QUE ALEJANDRA HA HECHO ES MERAMENTE DESCRIPTIVO (PAJA). \par
+%% 
 In general, the specific ontologies are different between the 
 parameters $\alpha > \beta$, $\alpha < \beta $, and $\alpha = \beta $. 
 There is no consensus in these ontologies, although the three cases are 
