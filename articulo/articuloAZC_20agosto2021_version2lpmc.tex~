@@ -103,6 +103,7 @@
 %% \address{Address\fnref{label3}}
 %% \fntext[label3]{}
 
+
 %% use optional labels to link authors explicitly to addresses:
 %% \author[label1,label2]{<author name>}
 %% \address[label1]{<address>}
@@ -280,7 +281,7 @@ The Discrete Generalized Beta Distribution used in this work is
 a novel probability function that it has been shown to be an
 alternative to fit data that does not fit Zipf's law perfectly
 nevertheless an underlying process alike seems to be taking 
-place \cite{martinez2009universality, fontanelli2016beyondzipf}. 
+place \cite{martinez2009universality} %\cite{fontanelli2016beyondzipf}.% 
 In some instances the $\alpha$ exponent can be related 
 to behaviors generating power laws, as is the case of scale 
 invariance in turbulence in the so called 
@@ -297,7 +298,7 @@ under study \cite{martinez2009universality}.\par
 There is a wide variety of a distinct phenomena studied under 
 the DGBD as shown in \cite{martinez2009universality} and specifically
 there is some research in the field of genomics as shown in 
-\cite{gupta2021modeling, fontanelli2016beyondzipf, li2016size}
+%\cite{gupta2021modeling} \cite{fontanelli2016beyondzipf} \cite{li2016size}%
 It is worth noting that the role of exponents $\alpha$ and $\beta$
 as universality classifying parameters, as for example in critical 
 phenomena, remains be investigated in further detail.\par 
@@ -380,17 +381,17 @@ and the lowest $\beta$ value was 0.0236. Figure 2 show the cases in
 which $\alpha < \beta $, namely  4 from among the best 30 DGBD 
 graphs with high $\beta$ and low $\alpha$ values. There can be found 5 
 different general GO molecular functions associated  with different 
-families. Seven families have "binding" ontology, whereas "transferase", 
-"translocase", and "ligase" are found in only one family each 
+families. Seven families have``binding" ontology, whereas ``transferase", 
+``translocase", and ``ligase" are found in only one family each 
 (Figure 2). Although the binding function  has a clearly higher 
 prevalence, we have 9 different families with different molecular 
-specific binding function. We have 3 families with "protein binding" 
-and one family with both "protein binding" and "ATP binding", 
-two families are labelled "DNA binding" and one family is labelled 
-"DNA binding" and "RNA polymerase activity", one family has 
-"RNA binding", one family is labelled "metal ion binding", and 
-two families with other specific ontologies like "proton-transporting 
-ATP synthase activity" and "aminoacyl-tRNA editing activity". 
+specific binding function. We have 3 families with ``protein binding" 
+and one family with both ``protein binding" and ``ATP binding", 
+two families are labelled ``DNA binding" and one family is labelled 
+``DNA binding" and ``RNA polymerase activity", one family has 
+``RNA binding", one family is labelled ``metal ion binding", and 
+two families with other specific ontologies like ``proton-transporting 
+ATP synthase activity" and ``aminoacyl-tRNA editing activity". 
 In this case, the distribution falls rapidly and with high beta values, 
 the rank is minor in the distribution por lo qué...... 
 %\citet{Tesis Cheko}, esto puede estar interesante pero hay que 
@@ -578,7 +579,13 @@ clear results with this methodology.
 
 \par
 
-In the figure 5 there are the distribution of the features used to create the SOM even the same darker blue areas that are a group of neurons that does not have any family representation that we saw in the figure 4 just that in these case the areas are white. En la figura observamos que los cuatro parámetros, $\alpha$, $\beta$, Shannon's entropy and Kolmogorov complexity, contribuyen de la misma manera para crear el SOM, no obstante, la intensidad en la actividad de las neuronas varía entre cada uno de los parámetros. Por ejemplo, la mayor intensidad en la actividad esta mostrada por H y K dónde se observa una intensidad entre 0.8 y 1.0 de acuerdo con la escala que se muestra del lado derecho de cada parámetro; en cambio, se observa una menor intensidad en la actividad en $\alpha$ y $\beta$ dónde se observa una intensidad entre 0.2 y 0.6 en su gran mayoría y en muy pocas zonas se observan grupos con intensidad de 0.8 a 1.0. Con mayor intensidad en la actividad entre 0.8 a 1.0, se observa los parámetros del GO que concuerdan con las zonas agrupadas del SOM.  
+%Figure 5 shows the distribution of the features used to create the SOM. there are  even the same darker blue areas that are a group of neurons that does not have any family representation that we saw in the figure 4 just that in these case the areas are white. En la figura observamos que los cuatro parámetros, $\alpha$, $\beta$, Shannon's entropy and Kolmogorov complexity, contribuyen de la misma manera para crear el SOM, no obstante, la intensidad en la actividad de las neuronas varía entre cada uno de los parámetros. Por ejemplo, la mayor intensidad en la actividad esta mostrada por H y K dónde se observa una intensidad entre 0.8 y 1.0 de acuerdo con la escala que se muestra del lado derecho de cada parámetro; en cambio, se observa una menor intensidad en la actividad en $\alpha$ y $\beta$ dónde se observa una intensidad entre 0.2 y 0.6 en su gran mayoría y en muy pocas zonas se observan grupos con intensidad de 0.8 a 1.0. Con mayor intensidad en la actividad entre 0.8 a 1.0, se observa los parámetros del GO que concuerdan con las zonas agrupadas del SOM.  
+
+Figure 5 shows the distribution of stimuli intensities for each stimulus type remaining after the SOM algorithm reduced dimensions. (¿Qué piensa Checo de esta frase?)The separate stimuli are respectively: DGBD parameter $\alpha$, DGBD parameter $\beta$,  Shannon entropy (H), Kolmogorov complexity (K), ``binding" ontology, ``transferase" ontology and ``hydrolase" ontology. Notice how the maps obtained from only one of   $\alpha$, $\beta$, H, or K share all their blobs and only differ in their intensity, whereas maps obtained from either ``binding", or ``transferase", or ``hydrolase" ontology information, each contain only a different subset of the blobs. We interpret this pattern to indicate that $\alpha$, $\beta$, H and K all contain a superset of the information contained in the GO General Molecular Functions.
+% "features used to create the SOM. there are  even the same darker blue areas that are a group of neurons that does not have any family representation that we saw in the figure 4 just that in these case the areas are white. En la figura observamos que los cuatro parámetros, $\alpha$, $\beta$, Shannon's entropy and Kolmogorov complexity, contribuyen de la misma manera para crear el SOM, no obstante, la intensidad en la actividad de las neuronas varía entre cada uno de los parámetros. Por ejemplo, la mayor intensidad en la actividad esta mostrada por H y K dónde se observa una intensidad entre 0.8 y 1.0 de acuerdo con la escala que se muestra del lado derecho de cada parámetro; en cambio, se observa una menor intensidad en la actividad en $\alpha$ y $\beta$ dónde se observa una intensidad entre 0.2 y 0.6 en su gran mayoría y en muy pocas zonas se observan grupos con intensidad de 0.8 a 1.0. Con mayor intensidad en la actividad entre 0.8 a 1.0, se observa los parámetros del GO que concuerdan con las zonas agrupadas del SOM.  
+
+
+
 
 The other four features are: parameters $\alpha$ and $\beta$ from expression 
 (1), Shannon’s entropy and Kolmogorv complexity.
@@ -611,6 +618,7 @@ The other four features are: parameters $\alpha$ and $\beta$ from expression
 
 
 
+
 %% The Appendices part is started with the command \appendix;
 %% appendix sections are then done as normal sections
 %% \appendix
@@ -630,9 +638,9 @@ The other four features are: parameters $\alpha$ and $\beta$ from expression
 % \bibliographystyle{model1-num-names}
 
 %% New version of the num-names style
-\bibliographystyle{elsarticle-num-names}
-\bibliography{sample.bib}
 
+\bibliographystyle{elsarticle-num-names}
+\bibliography{references.bib}
 
 %% Authors are advised to submit their bibtex database files. They are
 %% requested to list a bibtex style file in the manuscript if they do

@@ -1,0 +1,7 @@
+PWD /media/alex03/articulo2018/20agosto2021/20agosto2021v4
+INPUT /etc/texmf/web2c/texmf.cnf
+INPUT /usr/share/texmf/web2c/texmf.cnf
+INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
+INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
+INPUT articuloAZC_20agosto2021_version2lpmc.tex
+OUTPUT articuloAZC_20agosto2021_version2lpmc.log

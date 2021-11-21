@@ -1,0 +1,333 @@
+\begin{thebibliography}{32}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\href}[2]{#2}
+\providecommand{\path}[1]{#1}
+\providecommand{\DOIprefix}{doi:}
+\providecommand{\ArXivprefix}{arXiv:}
+\providecommand{\URLprefix}{URL: }
+\providecommand{\Pubmedprefix}{pmid:}
+\providecommand{\doi}[1]{\href{http://dx.doi.org/#1}{\path{#1}}}
+\providecommand{\Pubmed}[1]{\href{pmid:#1}{\path{#1}}}
+\providecommand{\bibinfo}[2]{#2}
+\ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
+%Type = Article
+\bibitem[{Oldfield and Dunker(2014)}]{oldfield2014intrinsically}
+\bibinfo{author}{C.~J. Oldfield}, \bibinfo{author}{A.~K. Dunker},
+\newblock \bibinfo{title}{Intrinsically disordered proteins and intrinsically
+  disordered protein regions},
+\newblock \bibinfo{journal}{Annual review of biochemistry} \bibinfo{volume}{83}
+  (\bibinfo{year}{2014}) \bibinfo{pages}{553--584}.
+%Type = Article
+\bibitem[{Vucetic et~al.(2004)Vucetic, Obradovic, Vacic, Radivojac, Peng,
+  Iakoucheva, Cortese, Lawson, Brown, Sikes et~al.}]{vucetic2004disprot}
+\bibinfo{author}{S.~Vucetic}, \bibinfo{author}{Z.~Obradovic},
+  \bibinfo{author}{V.~Vacic}, \bibinfo{author}{P.~Radivojac},
+  \bibinfo{author}{K.~Peng}, \bibinfo{author}{L.~M. Iakoucheva},
+  \bibinfo{author}{M.~S. Cortese}, \bibinfo{author}{J.~D. Lawson},
+  \bibinfo{author}{C.~J. Brown}, \bibinfo{author}{J.~G. Sikes}, et~al.,
+\newblock \bibinfo{title}{Disprot: a database of protein disorder},
+\newblock \bibinfo{journal}{Bioinformatics} \bibinfo{volume}{21}
+  (\bibinfo{year}{2004}) \bibinfo{pages}{137--140}.
+%Type = Article
+\bibitem[{Piovesan et~al.(2016)Piovesan, Tabaro, Mi{\v{c}}eti{\'c}, Necci,
+  Quaglia, Oldfield, Aspromonte, Davey, Davidovi{\'c}, Doszt{\'a}nyi
+  et~al.}]{piovesan2016disprot}
+\bibinfo{author}{D.~Piovesan}, \bibinfo{author}{F.~Tabaro},
+  \bibinfo{author}{I.~Mi{\v{c}}eti{\'c}}, \bibinfo{author}{M.~Necci},
+  \bibinfo{author}{F.~Quaglia}, \bibinfo{author}{C.~J. Oldfield},
+  \bibinfo{author}{M.~C. Aspromonte}, \bibinfo{author}{N.~E. Davey},
+  \bibinfo{author}{R.~Davidovi{\'c}}, \bibinfo{author}{Z.~Doszt{\'a}nyi},
+  et~al.,
+\newblock \bibinfo{title}{Disprot 7.0: a major update of the database of
+  disordered proteins},
+\newblock \bibinfo{journal}{Nucleic acids research} \bibinfo{volume}{45}
+  (\bibinfo{year}{2016}) \bibinfo{pages}{D219--D227}.
+%Type = Article
+\bibitem[{Dunker et~al.(2000)Dunker, Romero, Obradovic, Garner, and
+  Brown}]{dunker2000intrinsic}
+\bibinfo{author}{A.~K. Dunker}, \bibinfo{author}{P.~Romero},
+  \bibinfo{author}{Z.~Obradovic}, \bibinfo{author}{E.~C. Garner},
+  \bibinfo{author}{C.~J. Brown},
+\newblock \bibinfo{title}{Intrinsic protein disorder in complete genomes},
+\newblock \bibinfo{journal}{Genome Informatics} \bibinfo{volume}{11}
+  (\bibinfo{year}{2000}) \bibinfo{pages}{161--171}.
+%Type = Article
+\bibitem[{Dunker et~al.(2002)Dunker, Brown, Lawson, Iakoucheva, and
+  Obradovi{\'c}}]{dunker2002intrinsic}
+\bibinfo{author}{A.~K. Dunker}, \bibinfo{author}{C.~J. Brown},
+  \bibinfo{author}{J.~D. Lawson}, \bibinfo{author}{L.~M. Iakoucheva},
+  \bibinfo{author}{Z.~Obradovi{\'c}},
+\newblock \bibinfo{title}{Intrinsic disorder and protein function},
+\newblock \bibinfo{journal}{Biochemistry} \bibinfo{volume}{41}
+  (\bibinfo{year}{2002}) \bibinfo{pages}{6573--6582}.
+%Type = Article
+\bibitem[{Dunker et~al.(2013)Dunker, Babu, Barbar, Blackledge, Bondos,
+  Doszt{\'a}nyi, Dyson, Forman-Kay, Fuxreiter, Gsponer et~al.}]{dunker2013s}
+\bibinfo{author}{A.~K. Dunker}, \bibinfo{author}{M.~M. Babu},
+  \bibinfo{author}{E.~Barbar}, \bibinfo{author}{M.~Blackledge},
+  \bibinfo{author}{S.~E. Bondos}, \bibinfo{author}{Z.~Doszt{\'a}nyi},
+  \bibinfo{author}{H.~J. Dyson}, \bibinfo{author}{J.~Forman-Kay},
+  \bibinfo{author}{M.~Fuxreiter}, \bibinfo{author}{J.~Gsponer}, et~al.,
+\newblock \bibinfo{title}{What’s in a name? why these proteins are
+  intrinsically disordered: Why these proteins are intrinsically disordered},
+\newblock \bibinfo{journal}{Intrinsically disordered proteins}
+  \bibinfo{volume}{1} (\bibinfo{year}{2013}) \bibinfo{pages}{e24157}.
+%Type = Article
+\bibitem[{Dunker et~al.(2001)Dunker, Lawson, Brown, Williams, Romero, Oh,
+  Oldfield, Campen, Ratliff, Hipps et~al.}]{dunker2001intrinsically}
+\bibinfo{author}{A.~K. Dunker}, \bibinfo{author}{J.~D. Lawson},
+  \bibinfo{author}{C.~J. Brown}, \bibinfo{author}{R.~M. Williams},
+  \bibinfo{author}{P.~Romero}, \bibinfo{author}{J.~S. Oh},
+  \bibinfo{author}{C.~J. Oldfield}, \bibinfo{author}{A.~M. Campen},
+  \bibinfo{author}{C.~M. Ratliff}, \bibinfo{author}{K.~W. Hipps}, et~al.,
+\newblock \bibinfo{title}{Intrinsically disordered protein},
+\newblock \bibinfo{journal}{Journal of molecular graphics and modelling}
+  \bibinfo{volume}{19} (\bibinfo{year}{2001}) \bibinfo{pages}{26--59}.
+%Type = Article
+\bibitem[{Van Der~Lee et~al.(2014)Van Der~Lee, Buljan, Lang, Weatheritt,
+  Daughdrill, Dunker, Fuxreiter, Gough, Gsponer, Jones
+  et~al.}]{van2014classification}
+\bibinfo{author}{R.~Van Der~Lee}, \bibinfo{author}{M.~Buljan},
+  \bibinfo{author}{B.~Lang}, \bibinfo{author}{R.~J. Weatheritt},
+  \bibinfo{author}{G.~W. Daughdrill}, \bibinfo{author}{A.~K. Dunker},
+  \bibinfo{author}{M.~Fuxreiter}, \bibinfo{author}{J.~Gough},
+  \bibinfo{author}{J.~Gsponer}, \bibinfo{author}{D.~T. Jones}, et~al.,
+\newblock \bibinfo{title}{Classification of intrinsically disordered regions
+  and proteins},
+\newblock \bibinfo{journal}{Chemical reviews} \bibinfo{volume}{114}
+  (\bibinfo{year}{2014}) \bibinfo{pages}{6589--6631}.
+%Type = Article
+\bibitem[{Mart{\'\i}nez-Mekler et~al.(2009)Mart{\'\i}nez-Mekler, Mart{\'\i}nez,
+  del R{\'\i}o, Mansilla, Miramontes, and Cocho}]{martinez2009universality}
+\bibinfo{author}{G.~Mart{\'\i}nez-Mekler}, \bibinfo{author}{R.~A.
+  Mart{\'\i}nez}, \bibinfo{author}{M.~B. del R{\'\i}o},
+  \bibinfo{author}{R.~Mansilla}, \bibinfo{author}{P.~Miramontes},
+  \bibinfo{author}{G.~Cocho},
+\newblock \bibinfo{title}{Universality of rank-ordering distributions in the
+  arts and sciences},
+\newblock \bibinfo{journal}{PLoS One} \bibinfo{volume}{4}
+  (\bibinfo{year}{2009}) \bibinfo{pages}{e4791}.
+%Type = Book
+\bibitem[{Nelson et~al.(2017)Nelson, Lehninger, and Cox}]{nelson2017lehninger}
+\bibinfo{author}{D.~L. Nelson}, \bibinfo{author}{A.~L. Lehninger},
+  \bibinfo{author}{M.~M. Cox}, \bibinfo{title}{Lehninger principles of
+  biochemistry}, \bibinfo{edition}{7th} ed., \bibinfo{publisher}{Macmillan},
+  \bibinfo{year}{2017}.
+%Type = Book
+\bibitem[{Alberts et~al.(2015)Alberts, Johnson, Lewis, Morgan, Raff, Roberts,
+  and Walter}]{alberts2015molecular}
+\bibinfo{author}{B.~Alberts}, \bibinfo{author}{A.~Johnson},
+  \bibinfo{author}{J.~Lewis}, \bibinfo{author}{D.~Morgan},
+  \bibinfo{author}{M.~Raff}, \bibinfo{author}{K.~Roberts},
+  \bibinfo{author}{P.~Walter}, \bibinfo{title}{Molecular Biology of the Cell in
+  Cell}, \bibinfo{edition}{6th} ed., \bibinfo{publisher}{Garland Science,
+  Taylor \& Francis Group}, \bibinfo{year}{2015}.
+%Type = Article
+\bibitem[{Bateman et~al.(1999)Bateman, Birney, Durbin, Eddy, Finn, and
+  Sonnhammer}]{bateman1999pfam}
+\bibinfo{author}{A.~Bateman}, \bibinfo{author}{E.~Birney},
+  \bibinfo{author}{R.~Durbin}, \bibinfo{author}{S.~R. Eddy},
+  \bibinfo{author}{R.~D. Finn}, \bibinfo{author}{E.~L. Sonnhammer},
+\newblock \bibinfo{title}{Pfam 3.1: 1313 multiple alignments and profile hmms
+  match the majority of proteins},
+\newblock \bibinfo{journal}{Nucleic acids research} \bibinfo{volume}{27}
+  (\bibinfo{year}{1999}) \bibinfo{pages}{260--262}.
+%Type = Article
+\bibitem[{Xue et~al.(2010)Xue, Dunbrack, Williams, Dunker, and
+  Uversky}]{xue2010pondr}
+\bibinfo{author}{B.~Xue}, \bibinfo{author}{R.~L. Dunbrack},
+  \bibinfo{author}{R.~W. Williams}, \bibinfo{author}{A.~K. Dunker},
+  \bibinfo{author}{V.~N. Uversky},
+\newblock \bibinfo{title}{Pondr-fit: a meta-predictor of intrinsically
+  disordered amino acids},
+\newblock \bibinfo{journal}{Biochimica et Biophysica Acta (BBA)-Proteins and
+  Proteomics} \bibinfo{volume}{1804} (\bibinfo{year}{2010})
+  \bibinfo{pages}{996--1010}.
+%Type = Article
+\bibitem[{Tompa et~al.(2009)Tompa, Fuxreiter, Oldfield, Simon, Dunker, and
+  Uversky}]{tompa2009close}
+\bibinfo{author}{P.~Tompa}, \bibinfo{author}{M.~Fuxreiter},
+  \bibinfo{author}{C.~J. Oldfield}, \bibinfo{author}{I.~Simon},
+  \bibinfo{author}{A.~K. Dunker}, \bibinfo{author}{V.~N. Uversky},
+\newblock \bibinfo{title}{Close encounters of the third kind: disordered
+  domains and the interactions of proteins},
+\newblock \bibinfo{journal}{Bioessays} \bibinfo{volume}{31}
+  (\bibinfo{year}{2009}) \bibinfo{pages}{328--335}.
+%Type = Article
+\bibitem[{Sonnhammer et~al.(1997)Sonnhammer, Eddy, and
+  Durbin}]{sonnhammer1997pfam}
+\bibinfo{author}{E.~L. Sonnhammer}, \bibinfo{author}{S.~R. Eddy},
+  \bibinfo{author}{R.~Durbin},
+\newblock \bibinfo{title}{Pfam: a comprehensive database of protein domain
+  families based on seed alignments},
+\newblock \bibinfo{journal}{Proteins: Structure, Function, and Bioinformatics}
+  \bibinfo{volume}{28} (\bibinfo{year}{1997}) \bibinfo{pages}{405--420}.
+%Type = Article
+\bibitem[{Bateman et~al.(2004)Bateman, Coin, Durbin, Finn, Hollich,
+  Griffiths-Jones, Khanna, Marshall, Moxon, Sonnhammer
+  et~al.}]{bateman2004pfam}
+\bibinfo{author}{A.~Bateman}, \bibinfo{author}{L.~Coin},
+  \bibinfo{author}{R.~Durbin}, \bibinfo{author}{R.~D. Finn},
+  \bibinfo{author}{V.~Hollich}, \bibinfo{author}{S.~Griffiths-Jones},
+  \bibinfo{author}{A.~Khanna}, \bibinfo{author}{M.~Marshall},
+  \bibinfo{author}{S.~Moxon}, \bibinfo{author}{E.~L. Sonnhammer}, et~al.,
+\newblock \bibinfo{title}{The pfam protein families database},
+\newblock \bibinfo{journal}{Nucleic acids research} \bibinfo{volume}{32}
+  (\bibinfo{year}{2004}) \bibinfo{pages}{D138--D141}.
+%Type = Article
+\bibitem[{Punta et~al.(2011)Punta, Coggill, Eberhardt, Mistry, Tate, Boursnell,
+  Pang, Forslund, Ceric, Clements et~al.}]{punta2011pfam}
+\bibinfo{author}{M.~Punta}, \bibinfo{author}{P.~C. Coggill},
+  \bibinfo{author}{R.~Y. Eberhardt}, \bibinfo{author}{J.~Mistry},
+  \bibinfo{author}{J.~Tate}, \bibinfo{author}{C.~Boursnell},
+  \bibinfo{author}{N.~Pang}, \bibinfo{author}{K.~Forslund},
+  \bibinfo{author}{G.~Ceric}, \bibinfo{author}{J.~Clements}, et~al.,
+\newblock \bibinfo{title}{The pfam protein families database},
+\newblock \bibinfo{journal}{Nucleic acids research} \bibinfo{volume}{40}
+  (\bibinfo{year}{2011}) \bibinfo{pages}{D290--D301}.
+%Type = Article
+\bibitem[{Finn et~al.(2015)Finn, Coggill, Eberhardt, Eddy, Mistry, Mitchell,
+  Potter, Punta, Qureshi, Sangrador-Vegas et~al.}]{finn2015pfam}
+\bibinfo{author}{R.~D. Finn}, \bibinfo{author}{P.~Coggill},
+  \bibinfo{author}{R.~Y. Eberhardt}, \bibinfo{author}{S.~R. Eddy},
+  \bibinfo{author}{J.~Mistry}, \bibinfo{author}{A.~L. Mitchell},
+  \bibinfo{author}{S.~C. Potter}, \bibinfo{author}{M.~Punta},
+  \bibinfo{author}{M.~Qureshi}, \bibinfo{author}{A.~Sangrador-Vegas}, et~al.,
+\newblock \bibinfo{title}{The pfam protein families database: towards a more
+  sustainable future},
+\newblock \bibinfo{journal}{Nucleic acids research} \bibinfo{volume}{44}
+  (\bibinfo{year}{2015}) \bibinfo{pages}{D279--D285}.
+%Type = Article
+\bibitem[{Cherry et~al.(2012)Cherry, Hong, Amundsen, Balakrishnan, Binkley,
+  Chan, Christie, Costanzo, Dwight, Engel et~al.}]{cherry2012saccharomyces}
+\bibinfo{author}{J.~M. Cherry}, \bibinfo{author}{E.~L. Hong},
+  \bibinfo{author}{C.~Amundsen}, \bibinfo{author}{R.~Balakrishnan},
+  \bibinfo{author}{G.~Binkley}, \bibinfo{author}{E.~T. Chan},
+  \bibinfo{author}{K.~R. Christie}, \bibinfo{author}{M.~C. Costanzo},
+  \bibinfo{author}{S.~S. Dwight}, \bibinfo{author}{S.~R. Engel}, et~al.,
+\newblock \bibinfo{title}{Saccharomyces genome database: the genomics resource
+  of budding yeast},
+\newblock \bibinfo{journal}{Nucleic acids research} \bibinfo{volume}{40}
+  (\bibinfo{year}{2012}) \bibinfo{pages}{D700--D705}.
+%Type = Article
+\bibitem[{Consortium(2015)}]{gene2015gene}
+\bibinfo{author}{G.~O. Consortium},
+\newblock \bibinfo{title}{Gene ontology consortium: going forward},
+\newblock \bibinfo{journal}{Nucleic acids research} \bibinfo{volume}{43}
+  (\bibinfo{year}{2015}) \bibinfo{pages}{D1049--D1056}.
+%Type = Article
+\bibitem[{Linding et~al.(2003)Linding, Jensen, Diella, Bork, Gibson, and
+  Russell}]{linding2003protein}
+\bibinfo{author}{R.~Linding}, \bibinfo{author}{L.~J. Jensen},
+  \bibinfo{author}{F.~Diella}, \bibinfo{author}{P.~Bork},
+  \bibinfo{author}{T.~J. Gibson}, \bibinfo{author}{R.~B. Russell},
+\newblock \bibinfo{title}{Protein disorder prediction: implications for
+  structural proteomics},
+\newblock \bibinfo{journal}{Structure} \bibinfo{volume}{11}
+  (\bibinfo{year}{2003}) \bibinfo{pages}{1453--1459}.
+%Type = Article
+\bibitem[{Katoh and Frith(2012)}]{katoh2012adding}
+\bibinfo{author}{K.~Katoh}, \bibinfo{author}{M.~C. Frith},
+\newblock \bibinfo{title}{Adding unaligned sequences into an existing alignment
+  using mafft and last},
+\newblock \bibinfo{journal}{Bioinformatics} \bibinfo{volume}{28}
+  (\bibinfo{year}{2012}) \bibinfo{pages}{3144}.
+%Type = Article
+\bibitem[{Ashburner et~al.(2000)Ashburner, Ball, Blake, Botstein, Butler,
+  Cherry, Davis, Dolinski, Dwight, Eppig et~al.}]{ashburner2000gene}
+\bibinfo{author}{M.~Ashburner}, \bibinfo{author}{C.~A. Ball},
+  \bibinfo{author}{J.~A. Blake}, \bibinfo{author}{D.~Botstein},
+  \bibinfo{author}{H.~Butler}, \bibinfo{author}{J.~M. Cherry},
+  \bibinfo{author}{A.~P. Davis}, \bibinfo{author}{K.~Dolinski},
+  \bibinfo{author}{S.~S. Dwight}, \bibinfo{author}{J.~T. Eppig}, et~al.,
+\newblock \bibinfo{title}{Gene ontology: tool for the unification of biology},
+\newblock \bibinfo{journal}{Nature genetics} \bibinfo{volume}{25}
+  (\bibinfo{year}{2000}) \bibinfo{pages}{25--29}.
+%Type = Article
+\bibitem[{Petersen et~al.(2011)Petersen, Stanley, and
+  Succi}]{petersen2011statistical}
+\bibinfo{author}{A.~M. Petersen}, \bibinfo{author}{H.~E. Stanley},
+  \bibinfo{author}{S.~Succi},
+\newblock \bibinfo{title}{Statistical regularities in the rank-citation profile
+  of scientists},
+\newblock \bibinfo{journal}{Scientific reports} \bibinfo{volume}{1}
+  (\bibinfo{year}{2011}) \bibinfo{pages}{181}.
+%Type = Article
+\bibitem[{Alberts et~al.(1925)Alberts, Johnson, Lewis, Raff, Roberts, Andersen,
+  Finnemann, Christiansen, Ashburner, Ball et~al.}]{alberts1925adami}
+\bibinfo{author}{B.~Alberts}, \bibinfo{author}{A.~Johnson},
+  \bibinfo{author}{J.~Lewis}, \bibinfo{author}{M.~Raff},
+  \bibinfo{author}{K.~Roberts}, \bibinfo{author}{P.~B. Andersen},
+  \bibinfo{author}{N.~O. Finnemann}, \bibinfo{author}{P.~V. Christiansen},
+  \bibinfo{author}{M.~Ashburner}, \bibinfo{author}{C.~A. Ball}, et~al.,
+\newblock \bibinfo{title}{Adami, christoph 2004. information theory in
+  molecular biology. physics of life reviews 1: 3--22. adams, frederick 2003.
+  the informational turn in philosophy. minds and machi-nes 13: 471--501.},
+\newblock \bibinfo{journal}{Annual Review of Biochemistry} \bibinfo{volume}{72}
+  (\bibinfo{year}{1925}) \bibinfo{pages}{291--336}.
+%Type = Book
+\bibitem[{Li and Vitanyi(1989)}]{li1989kolmogorov}
+\bibinfo{author}{M.~Li}, \bibinfo{author}{P.~M. Vitanyi},
+  \bibinfo{title}{Kolmogorov complexity and its applications},
+  \bibinfo{publisher}{Centre for Mathematics and Computer Science},
+  \bibinfo{year}{1989}.
+%Type = Article
+\bibitem[{Kohonen(2013)}]{kohonen2013essentials}
+\bibinfo{author}{T.~Kohonen},
+\newblock \bibinfo{title}{Essentials of the self-organizing map},
+\newblock \bibinfo{journal}{Neural networks} \bibinfo{volume}{37}
+  (\bibinfo{year}{2013}) \bibinfo{pages}{52--65}.
+%Type = Article
+\bibitem[{Wang et~al.(2002)Wang, Delabie, Aasheim, Smeland, and
+  Myklebost}]{wang2002clustering}
+\bibinfo{author}{J.~Wang}, \bibinfo{author}{J.~Delabie}, \bibinfo{author}{H.~C.
+  Aasheim}, \bibinfo{author}{E.~Smeland}, \bibinfo{author}{O.~Myklebost},
+\newblock \bibinfo{title}{Clustering of the som easily reveals distinct gene
+  expression patterns: results of a reanalysis of lymphoma study},
+\newblock \bibinfo{journal}{BMC bioinformatics} \bibinfo{volume}{3}
+  (\bibinfo{year}{2002}) \bibinfo{pages}{1--9}.
+%Type = Article
+\bibitem[{Nurminen et~al.(2018)Nurminen, Neme, Seuter, and
+  Carlberg}]{nurminen2018impact}
+\bibinfo{author}{V.~Nurminen}, \bibinfo{author}{A.~Neme},
+  \bibinfo{author}{S.~Seuter}, \bibinfo{author}{C.~Carlberg},
+\newblock \bibinfo{title}{The impact of the vitamin d-modulated epigenome on
+  vdr target gene regulation},
+\newblock \bibinfo{journal}{Biochimica et Biophysica Acta (BBA)-Gene Regulatory
+  Mechanisms} \bibinfo{volume}{1861} (\bibinfo{year}{2018})
+  \bibinfo{pages}{697--705}.
+%Type = Article
+\bibitem[{Fontanelli et~al.(2016)Fontanelli, Miramontes, Yang, Cocho, and
+  Li}]{fontanelli2016beyondzipf}
+\bibinfo{author}{O.~Fontanelli}, \bibinfo{author}{P.~Miramontes},
+  \bibinfo{author}{Y.~Yang}, \bibinfo{author}{G.~Cocho},
+  \bibinfo{author}{W.~Li},
+\newblock \bibinfo{title}{Beyond zipf’s law: The lavalette rank function and
+  its properties},
+\newblock \bibinfo{journal}{PLOS ONE} \bibinfo{volume}{11}
+  (\bibinfo{year}{2016}) \bibinfo{pages}{1--14}. \URLprefix
+  \url{https://doi.org/10.1371/journal.pone.0163241}.
+  \DOIprefix\doi{10.1371/journal.pone.0163241}.
+%Type = Article
+\bibitem[{Gupta et~al.(2021)Gupta, Lalit, Biswas, Sanada, Greene, Hukari,
+  Maulik, Bandyopadhyay, Ramalingam, Ahuja et~al.}]{gupta2021modeling}
+\bibinfo{author}{K.~Gupta}, \bibinfo{author}{M.~Lalit},
+  \bibinfo{author}{A.~Biswas}, \bibinfo{author}{C.~D. Sanada},
+  \bibinfo{author}{C.~Greene}, \bibinfo{author}{K.~Hukari},
+  \bibinfo{author}{U.~Maulik}, \bibinfo{author}{S.~Bandyopadhyay},
+  \bibinfo{author}{N.~Ramalingam}, \bibinfo{author}{G.~Ahuja}, et~al.,
+\newblock \bibinfo{title}{Modeling expression ranks for noise-tolerant
+  differential expression analysis of scrna-seq data},
+\newblock \bibinfo{journal}{Genome Research} \bibinfo{volume}{31}
+  (\bibinfo{year}{2021}) \bibinfo{pages}{689--697}.
+%Type = Article
+\bibitem[{Li et~al.(2016)Li, Fontanelli, and Miramontes}]{li2016size}
+\bibinfo{author}{W.~Li}, \bibinfo{author}{O.~Fontanelli},
+  \bibinfo{author}{P.~Miramontes},
+\newblock \bibinfo{title}{Size distribution of function-based human gene sets
+  and the split--merge model},
+\newblock \bibinfo{journal}{Royal Society open science} \bibinfo{volume}{3}
+  (\bibinfo{year}{2016}) \bibinfo{pages}{160275}.
+
+\end{thebibliography}
